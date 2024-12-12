@@ -91,9 +91,10 @@ video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  font: 'Helvetica', 'Arial', inherit;
+  font: inherit;
+  /* 'Helvetica', 'Arial', */
   vertical-align: baseline;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.08em;
   /* Adjust spacing as needed */
 }
 
