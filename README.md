@@ -1,5 +1,4 @@
-wip.
-Link: https://sdesojo.github.io/sdesojo/
+wip. https://sdesojo.github.io/sdesojo/
 
 <!-- 
 Eventually by HTML5 UP
