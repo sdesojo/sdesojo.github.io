@@ -1,4 +1,6 @@
-wip. https://sdesojo.github.io/sdesojo/
+I guess this is a business card.
+https://sdesojo.github.io/sdesojo/
+
 
 <!-- 
 Eventually by HTML5 UP
