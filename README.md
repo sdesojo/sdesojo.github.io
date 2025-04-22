@@ -1,4 +1,4 @@
-I guess this is a business card.
+I guess this works as a business card.
 https://sdesojo.github.io/sdesojo/
 
 
