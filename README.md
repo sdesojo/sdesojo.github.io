@@ -1,5 +1,5 @@
 I guess this works as a business card.
-https://sdesojo.github.io/sdesojo/
+https://sdesojo.github.io/
 
 
 <!-- 
