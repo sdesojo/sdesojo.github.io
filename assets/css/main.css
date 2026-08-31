@@ -1159,6 +1159,10 @@ button:disabled,
   color: inherit;
 }
 
+#header p em {
+  font-size: 0.7em;
+}
+
 @media screen and (max-width: 736px) {
   #header h1 {
     font-size: 2em;
